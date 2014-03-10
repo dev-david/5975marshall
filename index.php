@@ -201,12 +201,13 @@
 									<article class="item">
 										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>4101 Carrington St</strong></h3>
+										<h3><strong>1070 53rd St</strong></h3>
 										<ul>
-											<li>3 Bed - 1.5 Bath</li>
-											<li>1,415 Sq Ft -  5,880 Lot</li>
-											<li>List: 7/5/13 - Sold: 7/19/13</li>
-											<li>List: $399,000 - SOLD $450,000</li>
+											<li>A - 2 Bed - 1 Bath</li>
+											<li>B - 2 Bed - 1 Bath</li>
+											<li>1,564 Sq Ft -  4,018 Lot</li>
+											<li>List: 10/6/13 - Sold: 1/3/14</li>
+											<li>List: $555,000 - SOLD $535,000</li>
 										</ul>
 									</article>
 								</div>
@@ -214,12 +215,13 @@
 									<article class="item">
 										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>4257 Suter St</strong></h3>
+										<h3><strong>4407 Linden St</strong></h3>
 										<ul>
-											<li>3 Bed - 2 Bath</li>
-											<li>1,240 Sq Ft - 3,430 Lot</li>
-											<li>List: 8/3/13 - Sold: 9/16/13</li>
-											<li>List: $389,900 - SOLD $430,000</li>
+											<li>A - 3 Bed - 1 Bath</li>
+											<li>B - 1 Bed - 1 Bath</li>
+											<li>1,927 Sq Ft - 2,700 Lot</li>
+											<li>List: 7/12/13 - Sold: 9/4/13</li>
+											<li>List: $599,000 - SOLD $599,000</li>
 										</ul>
 									</article>
 								</div>
@@ -227,18 +229,19 @@
 									<article class="item">
 										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>3808 Marion Ave</strong></h3>
+										<h3><strong>1073 57th St</strong></h3>
 										<ul>
-											<li>3 Bed - 1.5 Bath</li>
-											<li>1,210 Sq Ft - 2,550 Lot</li>
+											<li>A - 4 Bed - 1 Bath</li>
+											<li>A - 4 Bed - 1 Bath</li>
+											<li>2,514 Sq Ft - 4,315 Lot</li>
 											<li>List: 5/17/13 - Sold: 7/26/13</li>
-											<li>List: $359,000 - SOLD $400,000</li>
+											<li>List: $647,000 - SOLD $600,000</li>
 										</ul>
 									</article>
 								</div>
 							</div>
 							<br />
-							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=142fa192-82b6-49a2-bc60-d44c973fe34d&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.jpg" /></a>
+							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=bf9abc50-6f7b-4443-8284-9e772347d9f3&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.jpg" /></a>
 						</div>
 					</section>
 			
